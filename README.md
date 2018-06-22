@@ -1,6 +1,6 @@
 # IncidentRecon
 
-#[About]
+# [About]
 
 IncidentRecon is a toolkit that allows you to obtain data from a local Windows host using the Sysinternals and third-party utilities. Organize the data in folders and in a file called "loot".
 IncidentRecon is a compendium of Blue Team Field Manual (BTFM) and techniques obtained during the experience.
@@ -27,7 +27,7 @@ IncidentRecon is a compendium of Blue Team Field Manual (BTFM) and techniques ob
 - {6}Hook Analyzer
        Run Hookanalyzer; toolkit for malware analysis
 
-#[how to]
+# [how to]
 
 Run IncidentRecon.cmd from a cmd console or double click.
 
